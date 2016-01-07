@@ -1,0 +1,10 @@
+/Users/NicoleHuang/Dropbox/neverchange/openvx_sample/out/DARWIN/x86_64/release/module/openvx-c_model-lib/c_morphology.o: \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/kernels/c_model/c_morphology.c \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/kernels/c_model/c_model.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_vendors.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_types.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_kernels.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_api.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_nodes.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_helper.h

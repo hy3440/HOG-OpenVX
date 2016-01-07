@@ -1,0 +1,11 @@
+/Users/NicoleHuang/Dropbox/neverchange/openvx_sample/out/DARWIN/x86_64/release/module/openvx-debug/vx_debug_module.o: \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/libraries/debug/vx_debug_module.c \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_vendors.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_types.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_kernels.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_api.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_nodes.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_lib_debug.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/include/VX/vx_helper.h \
+  /Users/NicoleHuang/Dropbox/neverchange/openvx_sample/libraries/debug/vx_debug_module.h
